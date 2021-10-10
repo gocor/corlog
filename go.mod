@@ -1,4 +1,4 @@
-module gitlab.com/gocor/corlog
+module github.com/gocor/corlog
 
 go 1.16
 

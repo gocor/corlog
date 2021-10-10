@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"gitlab.com/gocor/corlog/logcfg"
+	"github.com/gocor/corlog/logcfg"
 )
 
 func TestLogger(t *testing.T) {

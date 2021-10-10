@@ -3,7 +3,7 @@ package corlog
 import (
 	"context"
 
-	"gitlab.com/gocor/corlog/logcfg"
+	"github.com/gocor/corlog/logcfg"
 	"go.uber.org/zap"
 )
 
